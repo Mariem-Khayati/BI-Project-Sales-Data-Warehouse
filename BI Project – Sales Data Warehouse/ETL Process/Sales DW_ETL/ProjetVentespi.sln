@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35229.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "ProjetVentespi", "ProjetVentespi\ProjetVentespi.dtproj", "{0F203FF0-98F9-4051-BB51-CD006181BAA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F203FF0-98F9-4051-BB51-CD006181BAA6}.Development|Default.ActiveCfg = Development
+		{0F203FF0-98F9-4051-BB51-CD006181BAA6}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10F770D5-04F0-451F-A170-0AD99EF8DC9F}
+	EndGlobalSection
+EndGlobal
