@@ -9,8 +9,8 @@ This project contains:
 ## Structure
 - Sales_DW_ETL/ : SSIS packages (.dtsx, .dtproj)
 - Sales DW (Cube Creation)/ : Data Warehouse and cube scripts
-- Sales_Forecasting_ML/ : Python-based sales forecasting (ARIMA / SARIMA)
 - Data visualization.pbix : Power BI dashboard
+- Sales_Forecasting_ML/ : Python-based sales forecasting (ARIMA / SARIMA)
 
 ## How to run
 1. Open the SSIS solution and configure Connection Managers
